@@ -1,0 +1,13 @@
+# Compiled files
+/target/
+/build/
+
+# Rust/Cargo files
+Cargo.lock
+/target/
+
+# Rust OSX temporary files
+**/target/
+
+# VS Code specific
+.vscode/
